@@ -129,15 +129,15 @@
       {%- else -%}
         <div style="background-image: url({{ banner_image }})"></div>
         <img class="img-placeholder" src="{{ banner_image }}">
-        {% assign credit = page.banner.credit | default: site.banner.credit %}
-        {% assign credit_url = page.banner.credit_url | default: site.banner.credit_url %}
-        {% if credit %}
-        <div class="watermark">
-          <a href="{{ credit_url }}" target="_blank">Credit to {{ credit }}</a>
-        </div>
-        {% endif %}
       {%- endif -%}
     </div>
+    {% assign credit = page.banner.credit | default: site.banner.credit %}
+    {% assign credit_url = page.banner.credit_url | default: site.banner.credit_url %}
+    {% if credit %}
+    <div class="watermark">
+      <a href="{{ credit_url }}" target="_blank">Credit to {{ credit }}</a>
+    </div>
+    {% endif %}
     <div class="wrapper">
       <div class="page-banner-inner">
 
