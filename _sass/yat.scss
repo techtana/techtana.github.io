@@ -88,3 +88,19 @@ $on-laptop:        800px !default;
   "misc/gitment",
   "misc/click-to-top"
 ;
+
+.watermark {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 5px 10px;
+  font-size: 12px;
+  border-radius: 5px;
+}
+
+.watermark a {
+  color: white;
+  text-decoration: none;
+}

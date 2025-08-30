@@ -25,6 +25,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tech no Nikki
+author: Tech Tana
+social:
+  github: https://github.com/techtana
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -168,6 +171,8 @@ banner:
   min_height: null        # Banner minimum height
   heading_style: "font-size: 62px; font-family: tahoma, sans-serif;"
   subheading_style: null  # Custom subheading style (e.g. color: gold)
+  credit: Tech Tana            # Banner credit
+  credit_url: https://github.com/techtana        # Banner 
 
 # Excerpt settings
 excerpt:
