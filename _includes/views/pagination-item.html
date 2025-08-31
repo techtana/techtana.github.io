@@ -30,7 +30,7 @@
 <li class="post-item {{ post_item_class }}">
   <h2 class="post-title">
     <a class="post-link" href="{{ post_url }}">
-      {{ post.title | escape }}
+      {{ post.title | strip_newlines | remove: "<br>" }}
       {%- include views/post-badges.html -%}
     </a>
   </h2>

@@ -31,8 +31,8 @@ sidebar:
       {%- if page.previous -%}
         <a class="previous"
           href="{{ page.previous.url | relative_url }}"
-          title="{{ page.previous.title | escape }}">
-          <div>{{ page.previous.title | escape }}</div>
+          title="{{ page.previous.title }}">
+          <div>{{ page.previous.title }}</div>
         </a>
       {%- else -%}
       <span></span>
@@ -41,8 +41,8 @@ sidebar:
       {%- if page.next -%}
         <a class="next"
           href="{{ page.next.url | relative_url }}"
-          title="{{ page.next.title | escape }}">
-          <div>{{ page.next.title | escape }}</div>
+          title="{{ page.next.title }}">
+          <div>{{ page.next.title }}</div>
         </a>
       {%- else -%}
       <span></span>
@@ -64,8 +64,8 @@ sidebar:
         <li class="{{ post_item_class }}">
           <a class="post-link"
             href="{{ post.url | relative_url }}"
-            title="{{ post.title | escape }}">
-            {{ post.title | escape | truncatewords: 12 }}
+            title="{{ post.title }}">
+            {{ post.title  | truncatewords: 12 }}
             {%- include views/post-badges.html -%}
           </a>
         </li>

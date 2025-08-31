@@ -103,10 +103,15 @@
             video.onloadstart = function() {
               video.currentTime = {{ banner_start_at }};
               video.volume = {{ banner_volume }};
-              video.muted = true;
+              video.muted = {{ banner_muted }};
               videoPlay();
 
               var volumeToggle = document.getElementById('volume-toggle');
+              if (video.muted) {
+                volumeToggle.innerHTML = '<i class="fa fa-volume-off"></i>';
+              } else {
+                volumeToggle.innerHTML = '<i class="fa fa-volume-up"></i>';
+              }
               volumeToggle.addEventListener('click', function() {
                 video.muted = !video.muted;
                 if (video.muted) {
@@ -150,10 +155,10 @@
 
           <div class="page-banner-default">
             <h1 class="page-banner-heading">
-              {{ heading | default: page.title | escape }}
+              {{ heading | default: page.title }}
             </h1>
             <h2 class="page-banner-subheading">
-              {{ subheading | default: page.subtitle | escape }}
+              {{ subheading | default: page.subtitle }}
             </h2>
           </div>
 
