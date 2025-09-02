@@ -31,11 +31,6 @@ banner:
     position: relative; /* For z-index to work */
     transition: transform 0.3s ease; /* Smooth transition for transform */
   }
-  .gallery-item:hover {
-    transform: scale(1.2); /* Enlarge by 10% on hover */
-    z-index: 1; /* Bring to front */
-    overflow: visible; /* Allow content to overflow */
-  }
   .gallery-item img {
     width: 100%; /* Make image fill the container */
     height: 100%; /* Make image fill the container */
@@ -46,10 +41,5 @@ banner:
     max-height: 600px;
     display: block;
     margin: 0 auto; /* Center the image */
-  }
-  .gallery-item img:hover {
-    object-fit: contain; /* Display full image, no cropping */
-    max-width: 2400px;
-    max-height: 2400px;
   }
 </style>
