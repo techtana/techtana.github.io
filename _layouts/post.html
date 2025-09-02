@@ -65,7 +65,7 @@ sidebar:
           <a class="post-link"
             href="{{ post.url | relative_url }}"
             title="{{ post.title }}">
-            {{ post.title  | truncatewords: 12 }}
+            {{ post.title | strip_newlines | remove: "<br>" | truncatewords: 12 }}
             {%- include views/post-badges.html -%}
           </a>
         </li>
