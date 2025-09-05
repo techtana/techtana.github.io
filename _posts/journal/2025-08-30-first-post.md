@@ -28,19 +28,18 @@ sidebar: []
 ---
 
 <p>
-  This space is where I share bits of my journey -- from things I pick up at work and hobibies 
-  I tinker with, to the sports and adventures that keep breaking me out of my mold. It's part 
-  journal of reflection, part reminder of lessons learned, and hopefully something intriging or 
+  This space is where I share bits of my journey -- from professional topics and hobibies 
+  I tinker with, to sports and adventures that keep breaking me out of my mold. It's part a 
+  journal of reflection, part a reminder of lessons learned. Hopefully something intriging or 
   relatable to those of you who found your way here. 
 </p>
 <p>
-  I once heard Timothee Chalamet's award acceptance speech saying he is "in persuit of greatness".
-  Not that he's a phillosopher or someone I particularly admire, but words at the right time 
-  struck a cord in me. What am I living to be?
+  I once heard Timothee Chalamet's award acceptance speech saying "[he is] in persuit of greatness".
+  Not that he's a phillosopher or someone I particularly admire, but words at the right time resonates with me. 
   As cheesy or vulnerable as it sounds, I am still in a persuit of a life worth living. 
   Rather than ruminating the impossible question of life, I'll speak it out to the cloud and 
   hopefully get me to understand myself better in the process.
 </p>
 <p>
-  
+  Enjoy.
 </p>
