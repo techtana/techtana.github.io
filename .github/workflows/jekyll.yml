@@ -1,0 +1,55 @@
+name: Github Pages
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - '.github/workflows/enhance-and-deploy.yml'
+
+
+permissions:
+  contents: write             # REQUIRED: the enhancer commits/moves files
+  pages: write
+  id-token: write
+
+
+jobs:
+  enhance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      # Your custom action (composite Docker/JS action)
+      - name: Enhance blog posts
+        uses: techtana/ghaction_ai_enhanced_blogpost@main
+        with:
+          openai_api_key: ${{ secrets.OPENAI_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # commit changes back to the same branch so Pages build sees them
+      - name: Commit enhanced files
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Enhance posts" || echo "No changes to commit"
+          git push
+
+  build:
+    needs: enhance
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/jekyll-build-pages@v1
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
