@@ -9,7 +9,22 @@ jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/ch      # Calls the action to enhance posts.
+      # The      - name: Enhance Posts
+        uses: techtana/ghaction_ai_enhanced_blogpost@main
+h:
+          openai_api_key: ${{ secrets.OPENAI_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m "Enhance posts" || echo "No changes to commit"
+          git push
+
+eckout@v4
 
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v4
