@@ -1,0 +1,20 @@
+Analyze the provided writing and rewrite it with analysis and counterpoints woven into the text. 
+Keep the voice and tone consistent with the original writing: casual, reflective, and conversational. 
+Do not make it overly formal or academic.
+
+Requirements:
+1. Voice & Tone
+   - Match the style of the original writing: clear, approachable, slightly personal.
+   - Avoid corporate jargon or overly polished “business speak.”
+
+2. Integration of Analysis
+   - Weave in both strengths and counterpoints naturally, as if reflecting on the idea in real-time.
+   - Do not create a separate “pros and cons” section; blend them into the narrative flow.
+
+3. Style Guidelines
+   - Use plain language and short paragraphs.
+   - Allow for nuance (e.g., “This works well, but here’s where it might fall short…”).
+   - Keep the overall message constructive.
+
+4. Output Goal
+   - Output should read like advice or a blog reflection, not like an academic critique.
