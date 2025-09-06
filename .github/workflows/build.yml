@@ -42,7 +42,7 @@ jobs:
           persist-credentials: true
 
       - name: Convert Notebooks
-        uses: techtana/ghaction_blogpost_from_ipynb@v2.0.0
+        uses: techtana/ghaction_blogpost_from_ipynb@v1.0.0
 
       - name: Commit enhanced files
         run: |
