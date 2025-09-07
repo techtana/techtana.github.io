@@ -56,6 +56,17 @@ favicon: "/assets/favicons/favicon.ico" # the favicon for your site
 yat:
   date_format: "%b %d, %Y"
 
+# Include the _pages directory
+include:
+  - _pages
+
+# Page default value
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: /:basename:output_ext
+
 # If you want more debug log, you can set true
 # debug: false
 
