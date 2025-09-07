@@ -18,6 +18,10 @@ layout: default
       {%- assign sidebar = layout.sidebar -%}
     {%- endif -%}
 
+    {%- if layout.sidebar_header -%}
+      <h3>{{ layout.sidebar_header }}</h3>
+    {%- endif -%}
+
     {%- for item in sidebar -%}
 
       {%- assign file = item -%}
