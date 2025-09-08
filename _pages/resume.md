@@ -31,8 +31,8 @@ Skilled at bridging engineering and business needs, leading projects end-to-end 
 ## Technical Highlights
 - **Programming**: Python (data pipelines, classical ML, web framework, concurrency), Javascript (front-end)
 - **Data Systems**: Query optimization, multi-database orchestration (MSSQL, Oracle, Snowflake, BigQuery, MongoDB).  
-- **Frameworks & Tools**: GitHub Actions, Docker, Streamlit, Tableau, ReactJS.  
-- **Domain Knowledge**: Statistical process control, process control theory, semiconductor processing.  
+- **Frameworks & Tools**: GitHub Actions, Docker, Streamlit, Tableau, ReactJS, GraphQL.  
+- **Domain Knowledge**: Statistical process control, control theory, semiconductor processing.  
 
 ## Education & Certifications
 **B.S. Materials Engineering and B.S. Finance** — Lehigh University  
