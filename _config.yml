@@ -157,8 +157,6 @@ header_pages:
   - about.html
   - blog.html
   - photography.html
-  # - tags.html
-  # - archives.html
 
 # # Page default value
 # defaults:
