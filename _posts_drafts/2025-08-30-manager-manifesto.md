@@ -72,7 +72,7 @@ What’s your favorite way to treat yourself?
 > No travel. Get a day off to do outdoor sports locally (climb, sail, hike, etc.) or just do simple home improvement.
 
 
-(Below are mostly quoted from my readings. I fully subscribed to each point, but those experienced leaders write better than me.)
+(Below are mostly quoted from my readings. I fully subscribed to each point, but other leaders write better than me.)
 
 ## My expectation of folks who report to me
 * Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
