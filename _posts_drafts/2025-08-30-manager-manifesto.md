@@ -50,7 +50,7 @@ What makes 1:1s the most valuable for you?
 > Reflect on what I can do better.
 
 What are your goals for this year? And for the next 3 months?
-> Ensure our team has SOP and training available to reduce friction and allow quick impact by team members.
+> Ensure our team has SOP and training available to reduce friction and allow quick impact by team members. Foster the culture of curiosity: dig deeper, think broader.
 
 What do you need from your manager?
 > Mentorship on communication and people leadership. Autonomy and trust to solve challenges and move the team forward. Advocacy for our team at higher levels.
