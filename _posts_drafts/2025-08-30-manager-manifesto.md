@@ -27,13 +27,13 @@ I promise to be kind, honest and empathetic with others and hold a safe space fo
 ## My answers to [first 1:1 questions](https://larahogan.me/blog/first-one-on-one-questions/)
 ### Grumpiness
 What makes you grumpy?
-> Whenever I feel like I don't have challenges to work on or I can't see opportunity for learning new perspectives or mindset.   
+> Whenever I feel like I don't have challenges to work on. Or, when I cannot solve a problem because of my mindset isn't tuned in and I can't yet see new perspectives to adopt.
 
 How will I know when you’re grumpy?
-> 
+> When I sigh a lot.
 
 How can I help you when you’re grumpy?
->
+> Share or teach me new perspective.
 
 ### Feedback & Recognition
 How do you like feedback - Teams chat, email, in person, etc?
@@ -47,13 +47,13 @@ How do you prefer to receive recognition? (public or private)
 
 ### Goals and Support
 What makes 1:1s the most valuable for you?
-> 
+> Reflect on what I can do better.
 
 What are your goals for this year? And for the next 3 months?
 > Ensure our team has SOP and training available to reduce friction and allow quick impact by team members.
 
 What do you need from your manager?
-> Autonomy and trust to solve challenges and move the team forward. Advocacy for our team at higher levels.
+> Mentorship on communication and people leadership. Autonomy and trust to solve challenges and move the team forward. Advocacy for our team at higher levels.
 
 From your team?
 > Honest feedback and a safe, inclusive work environment for each of us to be trusting and fully engaged.
@@ -65,11 +65,11 @@ From your peers? (outside the team)
 Human learning and growth requires the right amount of four things: new challenges, 
 low ego, space to reflect and brainstorm, and timely and clear feedback. 
 How are these four going for you? Is there one you need more or less of?
-> 
+> I wish for more space to reflect. Need to do better and more consistent diary.
 
 ### The Most Important Question
 What’s your favorite way to treat yourself?
-> Get a day off to do outdoor sports (climb, sail, hike, etc.)
+> No travel. Get a day off to do outdoor sports locally (climb, sail, hike, etc.) or just do simple home improvement.
 
 ## My expectation of folks who report to me
 * Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
