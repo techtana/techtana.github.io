@@ -59,7 +59,7 @@ From your team?
 > Honest feedback and a safe, inclusive work environment for each of us to be trusting and fully engaged.
 
 From your peers? (outside the team)
-> Honest feedback and psychological safety are my #1’s there, as well.
+> Honest feedback and psychological safety are my #1 there, as well.
 
 ### The Wordy Question
 Human learning and growth requires the right amount of four things: new challenges, 
