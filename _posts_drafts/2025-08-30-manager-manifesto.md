@@ -19,10 +19,10 @@ Having a manifesto like this can ground me to my mission and keep me accountable
 Let's take a stab:
 
 ## My leadership philosophy
-I believe in leading by helping others see more clearly what they already know, and finding the solutions and strengths that are already inside people.
+I believe in leading by helping others see more clearly what they already know and finding the strengths that already have.
 I love to be surrounded by people who challenge me, and I recognize that everyone is my superior at something. 
 I value open, authentic relationships.
-I promise to be kind, honest and empathetic with others and hold a safe space for the hard, messy wonderful process of growing and flourishing as a full human being.
+I promise to be kind, honest and empathetic with others and hold a safe space for the hard, messy wonderful process of growing.
 
 ## My answers to [first 1:1 questions](https://larahogan.me/blog/first-one-on-one-questions/)
 ### Grumpiness
