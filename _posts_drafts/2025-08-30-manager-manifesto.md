@@ -27,35 +27,33 @@ I promise to be kind, honest and empathetic with others and hold a safe space fo
 ## My answers to [first 1:1 questions](https://larahogan.me/blog/first-one-on-one-questions/)
 ### Grumpiness
 What makes you grumpy?
-> Whenever I feel like I don't have challenges to work on or I can't see opportunity for learning new perspectives. 
-When I'm challenged beyond my   
+> Whenever I feel like I don't have challenges to work on or I can't see opportunity for learning new perspectives or mindset.   
 
 How will I know when you’re grumpy?
->
+> 
 
 How can I help you when you’re grumpy?
 >
 
 ### Feedback & Recognition
 How do you like feedback - Teams chat, email, in person, etc?
->
+> Teams, in person 
 
 How do you like feedback - routine like in 1:1s, or as-it-happens?
->
+> Either is good. As it happens if possible.
 
 How do you prefer to receive recognition? (public or private)
 > Public 🎉
 
 ### Goals and Support
 What makes 1:1s the most valuable for you?
->
+> 
 
 What are your goals for this year? And for the next 3 months?
->
+> Ensure our team has SOP and training available to reduce friction and allow quick impact by team members.
 
 What do you need from your manager?
-> Autonomy and trust to solve challenges and move the team forward.
-Advocacy for our team at higher levels.
+> Autonomy and trust to solve challenges and move the team forward. Advocacy for our team at higher levels.
 
 From your team?
 > Honest feedback and a safe, inclusive work environment for each of us to be trusting and fully engaged.
@@ -81,7 +79,7 @@ What’s your favorite way to treat yourself?
 * In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable.
 
 ## What you can expect of me as your manager
-* A weekly 1:1 (unless you specifically prefer a different cadence) where we’ll work on challenges, goals, and priorities to support you and play to your strengths. As part of this, I’ll do my best to hold a safe space for you and to know you as a person, and connect together as humans to whatever degree feels best for you. I will also share wider context and my own areas of focus or challenge.
+* A biweekly 1:1 (unless you specifically prefer a different cadence) where we’ll work on challenges, goals, and priorities to support you and play to your strengths. As part of this, I’ll do my best to hold a safe space for you and to know you as a person, and connect together as humans to whatever degree feels best for you. I will also share wider context and my own areas of focus or challenge.
 * I’ll transparently share context of my own goals, challenges and priorities - you should never wonder what on earth I do all day! (If you ever do, please nudge me!)
 * I’ll listen and hear your feedback, because it is the biggest gift you can give me to help me, and Buffer, improve. I know that I will make mistakes, and I'm going to make decisions that are wrong. I promise you that if you come to me and you explain to me why something is wrong, I will listen, and I will fix it.
 * Clear, gentle, honest communication. I promise not to leave you guessing what I “really” think or expect you to read between the lines of what I’m saying. If it’s not clear, and you have a nagging feeling, let me know so I can fix it! It’s not intentional. I’ll also reply promptly to you, or let you know when you can expect a reply, if you reach out.
