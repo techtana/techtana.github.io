@@ -65,7 +65,7 @@ From your peers? (outside the team)
 Human learning and growth requires the right amount of four things: new challenges, 
 low ego, space to reflect and brainstorm, and timely and clear feedback. 
 How are these four going for you? Is there one you need more or less of?
-> I wish for more space and time to reflect. Need to do more consistent diary.
+> I wish for more space and time to reflectd and internalize learnings.
 
 ### The Most Important Question
 What’s your favorite way to treat yourself?
