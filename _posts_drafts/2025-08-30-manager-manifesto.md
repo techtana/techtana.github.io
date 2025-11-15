@@ -27,7 +27,7 @@ I actively encourage a growth mindset (Can do!), valuing the journey of learning
 ## My answers to [first 1:1 questions](https://larahogan.me/blog/first-one-on-one-questions/)
 ### Grumpiness
 What makes you grumpy?
-> Whenever I feel like I don't have challenges to work on or problems becomes repetitive. And, when I cannot solve a problem because my mindset isn't tuned in and I can't yet see new perspectives to adopt.
+> Whenever I feel like I don't have challenges to work on or issues becomes repetitive. And, when I realized cannot solve certain problems because my mindset isn't tuned in and I can't yet see new perspectives to adopt.
 
 How will I know when you’re grumpy?
 > When I sigh a lot. 
