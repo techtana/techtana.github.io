@@ -47,7 +47,7 @@ How do you prefer to receive recognition? (public or private)
 
 ### Goals and Support
 What makes 1:1s the most valuable for you?
-> Reflect on what I can do better.
+> Reflect on what I can do better. See my blind spots.
 
 What are your goals for this year? And for the next 3 months?
 > Ensure our team has SOP and training available to reduce friction and allow quick impact by team members. Foster the culture of curiosity: dig deeper, think broader.
