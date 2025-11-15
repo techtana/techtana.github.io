@@ -73,7 +73,7 @@ What’s your favorite way to treat yourself?
 
 ## My expectation of folks who report to me
 * Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
-* Please invest in 1:1s. Please use the time of the 1:1 as a chance to reflect on your challenges and growth.
+* Please invest in 1:1s. 1:1s should be led by team members' agenda. Please use the time of the 1:1 as a chance to reflect on your challenges and growth.
 * Please set healthy goals and boundaries for yourself.
 * Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen.
 * In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable.
