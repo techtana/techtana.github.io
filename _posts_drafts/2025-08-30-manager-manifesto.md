@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Manager Manifesto
+title: Leadership Manifesto
 subtitle: Enabling trust with clarity
 author: Tech Tana
-categories: management
-tags: management
+categories: leadership
+tags: leadership
 ---
 
-Now that I think about leading a team of engineers, I reflect deeply at how can I provide value to the talented people and those with more experience than me. 
+Now that I started leading a team of engineers, I reflect deeply at how can I provide value to the talented people and those with more experience than me. 
 
 Today, I came across this article [Manager ReadMe](https://gokatiewilde.medium.com/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b) 
 that recommended an open document to outline how I intend to be as a manager and clarify expectations and culture I intend to cultivate.
