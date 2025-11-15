@@ -33,7 +33,7 @@ How will I know when you’re grumpy?
 > When I sigh a lot.
 
 How can I help you when you’re grumpy?
-> Share me new perspective. Or, simply say hi.
+> Simply say hi. I may still be grumpy but you'll likely snap me out of it.
 
 ### Feedback & Recognition
 How do you like feedback - Teams chat, email, in person, etc?
