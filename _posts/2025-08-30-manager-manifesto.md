@@ -73,6 +73,10 @@ How are these four going for you? Is there one you need more or less of?
 What's your favorite way to treat yourself?
 > Get a day off to do outdoor sports locally (climb, sail, hike, etc.) or just drink tea quietly at home.
 
+## Important
+Please answer the same questions above before our first 1:1. Your 1:1 is about you; we cannot start without understanding your responses.
+
+
 ## My expectation of folks who report to me
 * Please reach out and let me know anytime something feels off. It's much harder to fix things when we're guessing. I'll never see speaking up about challenges as complaining. I genuinely value honest and transparent thoughts so we can learn and grow together.
   * __Bonus__: If you have ideas on how we might approach the challenge, share them too. I know that's not always possible, especially when the issue itself isn't fully clear yet.
