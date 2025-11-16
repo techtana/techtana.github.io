@@ -67,7 +67,7 @@ From your peers? (outside the team)
 Human learning and growth requires the right amount of four things: new challenges, 
 low ego, space to reflect and brainstorm, and timely and clear feedback. 
 How are these four going for you? Is there one you need more or less of?
-> Overall, quite well and balanced. More space and time to internalize learning will help.
+> More space and time to internalize learning will help. But overall, quite well and balanced. 
 
 ### The Most Important Question
 What's your favorite way to treat yourself?
