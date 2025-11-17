@@ -13,7 +13,7 @@ Today, I came across this article [Manager ReadMe](https://gokatiewilde.medium.c
 that recommended an open document to outline how I intend to be as a manager and clarify expectations and culture I intend to cultivate.
 This resonate with some of the issues I currently see in our team. Leadership, even in uncertain times, must provide a sense of calrity 
 even that means telling others we're working with constantly moving targets while also a sense of actionable plan for what we can control. 
-While I do not have much experience in management, I intend to learn and refine my understanding of this role and its execution. 
+While I am not yet a seasoned manager, I intend to learn and refine my understanding of this role and its execution. 
 Having a manifesto like this can ground me to my mission and keep me accountable by the team.
 
 Let's take a stab:
@@ -27,6 +27,11 @@ I value team players who are willing to engage in healthy, professional conflict
 
 
 ## My answers to [first 1:1 questions](https://larahogan.me/blog/first-one-on-one-questions/)
+
+These will be scattered in the conversation during our 1:1 and it will be a dialog to get to know each other. I can start with "I'll ask some cheesy questions so that we can get to know each other better and I can support you better."
+
+Below are my own answers that I'll share with my own boss  so that he understands me better as well.
+
 ### Grumpiness
 What makes you grumpy?
 > Being dragged into chaos or problems with no context or prior attempts to solve it. 
@@ -35,7 +40,7 @@ How will I know when you're grumpy?
 > I'll go quiet for a moment and ask what's going on. That's when I try to make sense of things before reacting. I'll try to figure out, but I won't be happy about it.
 
 How can I help you when you're grumpy?
-> Give me a concise summary of what happened or was attempted, then what is needed from me. A little context resets me fast.
+> Give me a summary of what happened or was attempted, then what is needed from me. A little context resets me fast.
 
 ### Feedback & Recognition
 How do you like feedback - Teams chat, email, in person, etc?
@@ -72,9 +77,6 @@ How are these four going for you? Is there one you need more or less of?
 ### The Most Important Question
 What's your favorite way to treat yourself?
 > Get a day off to do outdoor sports locally (climb, sail, hike, etc.) or just drink tea quietly at home.
-
-## Important
-Please answer the same questions above before our first 1:1. Your 1:1 is about you; we cannot start without understanding your responses.
 
 
 ## My expectation of folks who report to me
