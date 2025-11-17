@@ -23,14 +23,20 @@ My core leadership philosophy centers on open communication and transparency, wh
 
 I actively encourage a growth mindset (Can do!), valuing the journey of learning and improvement over the final outcome. I see issues and missteps as learning opportunities. While I hold high expectations for growth, I will not fault someone for trying. I will stay objective and promise to ask your point of view before finding solutions together. I prioritize impact and genuine effort over perfection, especially when navigating uncertainty. I will always consider the contexts behind any result. 
 
-I value team players who are willing to engage in healthy, professional conflict. And, I believe that everyone is superior to me in some ways; no single leader can fully see or unlock someone's potentail alone. It's a collaborative effort, and I'm commited to growing alongside you.
+I value team players who engage in healthy, professional conflict. And I believe each of you brings strengths I don’t have. Leadership is collaborative, and I’m committed to growing alongside you.
 
+## Short version
+My core leadership philosophy is open communication and creating a space where everyone can ask questions and know exactly where I stand. I’ll make mistakes and won’t always have all the answers, but I’ll be honest and take feedback seriously.
+
+I believe in a strong growth mindset. Missteps are learning opportunities, not failures. I care about impact, effort, and context -- not perfection. I’ll always ask for your perspective before we find solutions together.
+
+I value team players who engage in healthy, professional conflict. I believe my team brings strengths I don’t have. Leadership is collaborative, and I’m committed to growing alongside you.
 
 ## My answers to [first 1:1 questions](https://larahogan.me/blog/first-one-on-one-questions/)
 
 These will be scattered in the conversation during our 1:1 and it will be a dialog to get to know each other. I can start with "I'll ask some cheesy questions so that we can get to know each other better and I can support you better."
 
-Below are my own answers that I'll share with my own boss  so that he understands me better as well.
+Below are my own answers that I'll share with my own boss so that he understands me better as well.
 
 ### Grumpiness
 What makes you grumpy?
