@@ -75,10 +75,14 @@ From your peers? (outside the team)
 > Respectful, professional communication.
 
 ### The Wordy Question
-Human learning and growth requires the right amount of four things: new challenges, 
-low ego, space to reflect and brainstorm, and timely and clear feedback. 
+To grow, people need four things: 
+* right amount and type of challenges
+* space to be open and willing to grow
+* space to reflect what's working or not
+* timely and clear feedback.
+
 How are these four going for you? Is there one you need more or less of?
-> More space and time to internalize learning will help. But overall, quite well and balanced. 
+> Timely, clear, gentle feedback is needed. Clear path of focused learning will help; tell me what gaps am I filling with these courses/learning. 
 
 ### The Most Important Question
 What's your favorite way to treat yourself?
