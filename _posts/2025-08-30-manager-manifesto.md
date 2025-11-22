@@ -95,5 +95,5 @@ What's your favorite way to treat yourself?
 ## What you can expect of me as your manager
 * A biweekly 1:1 (or a cadence you prefer) focused on your challenges, goals, and priorities. I'll do my best to hold a safe space for you and to know you as a person, and we can connect at a level that feels comfortable for you.
 * Clear, honest, gentle communication. If anything I say feels vague or unclear, let me know so I can fix it. Ambiguity is not intentional.
-* I'll listen and hear your feedback, because it is the biggest gift which you can help me improve. I will make mistakes and I'll sometimes make the wrong call. I promise that if you come to me and explain why something is wrong, I will listen and I will work to fix it.
+* I'll listen and hear your feedback, because it is the biggest gift which you can help me improve. I promise that if you come to me and explain why something is wrong, I will listen and I will work to fix it.
 * Support for healthy work-life balance. I know I'm not always the best role model here, but I care deeply about helping you avoid burnout and maintain a sustainable rhythm.
