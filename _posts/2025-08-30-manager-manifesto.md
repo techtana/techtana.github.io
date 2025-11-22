@@ -28,9 +28,7 @@ I value team players who engage in healthy, professional conflict. And I believe
 ## Short version
 My core leadership philosophy is open communication and creating a space where everyone can ask questions and know exactly where I stand. I’ll make mistakes and won’t always have all the answers, but I’ll be honest and take feedback seriously.
 
-I believe in a strong growth mindset. Missteps are learning opportunities, not failures. I care about impact, effort, and context -- not perfection. I’ll always ask for your perspective before we find solutions together.
-
-I value team players who engage in healthy, professional conflict. I believe my team brings strengths I don’t have. Leadership is collaborative, and I’m committed to growing alongside you.
+I believe in a strong growth mindset. Missteps are learning opportunities, not failures. I care about impact, effort, and context -- not perfection. I value team players who engage in healthy, professional conflict. I believe my team brings strengths I don’t have. Leadership is collaborative, and I’m committed to growing alongside you.
 
 ## My answers to [first 1:1 questions](https://larahogan.me/blog/first-one-on-one-questions/)
 
@@ -40,17 +38,17 @@ Below are my own answers that I'll share with my own boss so that he understands
 
 ### Grumpiness
 What makes you grumpy?
-> Being dragged into chaos or problems with no context or prior attempts to solve it. 
+> Being dragged into chaos or problems without prior attempts to solve it. 
 
 How will I know when you're grumpy?
-> I'll go quiet for a moment and ask what's going on. That's when I try to make sense of things before reacting. I'll try to figure out, but I won't be happy about it.
+> I'll go quiet for a moment and ask what's going on. That's when I try to make sense of things before reacting. I'll try to figure out, but it'll still make me grumpy.
 
 How can I help you when you're grumpy?
-> Give me a summary of what happened or was attempted, then what is needed from me. A little context resets me fast.
+> Give me a summary of what happened or was attempted, then what is needed from me. A little context and show of efforts resets me fast.
 
 ### Feedback & Recognition
 How do you like feedback - Teams chat, email, in person, etc?
-> In person or Teams chat 
+> Teams chat is usually more articulate and helps me keep track. Then, talk in person to clarify. (or the other way around)
 
 How do you like feedback - routine like in 1:1s, or as-it-happens?
 > Either is good. As it happens if possible.
@@ -66,7 +64,7 @@ What are your goals for this year? And for the next 3 months?
 > Ensure our team has effective SOP and training plan available to reduce friction and allow quick impact by all team members. Foster the culture of curiosity and growth: dig deeper, think broader.
 
 What do you need from your manager?
-> Mentorship on leadership. Autonomy and trust to solve challenges and move the team forward. Advocacy for our team at higher levels.
+> Mentorship on management and leadership. Autonomy and trust to solve challenges and move the team forward. Advocacy for our team at higher levels.
 
 From your team?
 > A safe, inclusive work environment for each of us to be trusting and fully engaged.
@@ -75,13 +73,12 @@ From your peers? (outside the team)
 > Respectful, professional communication.
 
 ### The Wordy Question
-To grow, people need four things: 
+To grow, people need four things. How are these four going for you? Is there one you need more or less of? 
 * right amount and type of challenges
-* space to be open and willing to grow
+* safety to be open and willing to grow
 * space to reflect what's working or not
 * timely and clear feedback.
-
-How are these four going for you? Is there one you need more or less of?
+  
 > Timely, clear, gentle feedback is needed. Clear path of focused learning will help; tell me what gaps am I filling with these courses/learning. 
 
 ### The Most Important Question
@@ -90,15 +87,13 @@ What's your favorite way to treat yourself?
 
 
 ## My expectation of folks who report to me
-* Please reach out and let me know anytime something feels off. It's much harder to fix things when we're guessing. I'll never see speaking up about challenges as complaining. I genuinely value honest and transparent thoughts so we can learn and grow together.
-  * __Bonus__: If you have ideas on how we might approach the challenge, share them too. I know that's not always possible, especially when the issue itself isn't fully clear yet.
-* Please make the most of our 1:1s. Your agenda prioritizes over mine; I'll set additional meetings if needed. Use this space to reflect on your challenges and growth.
+* Please reach out and let me know anytime something feels off. I'll never see speaking up about challenges as complaining. Summaries are always helpful. (__Bonus__: If you have ideas on how we might approach the challenge, share them too.)
+* Please make the most of our 1:1s. Your agenda prioritizes over mine; I'll set additional meetings if needed. 
 * Set goals and boundaries that support your well-being and effectiveness.
-* Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen.
-* Overall, please over-communicate with me. Summaries are always helpful, but don't worry about sending me multiple messages or lots of context, staying connected is really valuable.
+* Please invest in yourself and focus on self-improvement. 
 
 ## What you can expect of me as your manager
 * A biweekly 1:1 (or a cadence you prefer) focused on your challenges, goals, and priorities. I'll do my best to hold a safe space for you and to know you as a person, and we can connect at a level that feels comfortable for you.
-* Clear, honest, gentle communication. I promise not to leave you guessing what I really think or expect you to read between the lines of what I'm saying. If anything I say feels vague or unclear, let me know so I can fix it. Ambiguity is not intentional.
+* Clear, honest, gentle communication. If anything I say feels vague or unclear, let me know so I can fix it. Ambiguity is not intentional.
 * I'll listen and hear your feedback, because it is the biggest gift which you can help me improve. I will make mistakes and I'll sometimes make the wrong call. I promise that if you come to me and explain why something is wrong, I will listen and I will work to fix it.
 * Support for healthy work-life balance. I know I'm not always the best role model here, but I care deeply about helping you avoid burnout and maintain a sustainable rhythm.
