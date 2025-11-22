@@ -3,7 +3,7 @@ layout: post
 title: Leadership Manifesto
 subtitle: Enabling trust with clarity
 author: Tech Tana
-categories: leadership
+categories: career
 tags: leadership
 ---
 
@@ -19,13 +19,6 @@ Having a manifesto like this can ground me to my mission and keep me accountable
 Let's take a stab:
 
 ## My leadership philosophy
-My core leadership philosophy centers on open communication and transparency, where everyone feels empowered to ask questions and know exactly where I stand. I will make mistakes and I won't always have experience in every situation, but I will take your feedback seriously and openly say when I don't know something. I aim to be kind, honest, and empathetic, and to hold a safe space for the hard, messy, and wonderful process of growing. My goal is to build an environment where everyone feels supported, challenged, and empowered to reach their potential. An environment of mutual respect and constructive feedback is a non-negotiable.
-
-I actively encourage a growth mindset (Can do!), valuing the journey of learning and improvement over the final outcome. I see issues and missteps as learning opportunities. While I hold high expectations for growth, I will not fault someone for trying. I will stay objective and promise to ask your point of view before finding solutions together. I prioritize impact and genuine effort over perfection, especially when navigating uncertainty. I will always consider the contexts behind any result. 
-
-I value team players who engage in healthy, professional conflict. And I believe each of you brings strengths I don’t have. Leadership is collaborative, and I’m committed to growing alongside you.
-
-## Short version
 My core leadership philosophy is open communication and creating a space where everyone can ask questions and know exactly where I stand. I’ll make mistakes and won’t always have all the answers, but I’ll be honest and take feedback seriously.
 
 I believe in a strong growth mindset. Missteps are learning opportunities, not failures. I care about impact, effort, and context -- not perfection. I value team players who engage in healthy, professional conflict. I believe my team brings strengths I don’t have. Leadership is collaborative, and I’m committed to growing alongside you.
@@ -47,21 +40,21 @@ How can I help you when you're grumpy?
 > Give me a summary of what happened and was attempted, then what is needed from me. A little context and show of efforts resets me fast.
 
 ### Feedback & Recognition
-How do you like feedback - Teams chat, email, in person, etc?
-> Teams chat is usually more articulate and helps me keep track. Then, talk in person to clarify. (or the other way around)
-
 How do you like feedback - routine like in 1:1s, or as-it-happens?
-> Either is good. As it happens if possible.
+> During 1:1s is the best time for me. However, if something is time-sensitive or blocking you, please bring it up as it happens; I'd rather hear it early so I can adjust quickly.
+
+How do you like feedback - Teams chat, email, in person, etc?
+> In-person is great. If we talk outside of 1:1s (where I don't have a notebook), a quick Teams message will also help me remember.
 
 How do you prefer to receive recognition? (public or private)
-> Public 🎉
+> If I've supported you personally - as an engineer or just as a person - I prefer recognition in private. But if the impact reaches your work or the broader team, then I appreciate public recognition 🎉
 
 ### Goals and Support
 What makes 1:1s the most valuable for you?
 > Tell me my blind spots and your honest feedback.
 
 What are your goals for this year? And for the next 3 months?
-> Ensure our team has effective SOP and training plan available to reduce friction and allow quick impact by all team members. Foster the culture of curiosity and growth: dig deeper, think broader.
+> Making sure our team has effective SOP, training plan, and tools available to reduce friction and allow quick impact by all team members. Foster the culture of curiosity and growth: dig deeper, think broader.
 
 What do you need from your manager?
 > Mentorship on management and leadership. Autonomy and trust to solve challenges and move the team forward. Advocacy for our team at higher levels.
@@ -78,7 +71,6 @@ To grow, people need four things. How are these four going for you? Is there one
 * safety to be open and willing to grow
 * space to reflect what's working or not
 * timely and clear feedback.
-  
 > Timely, clear, gentle feedback is needed. Clear path of focused learning will help; tell me what gaps am I filling with these courses/learning. 
 
 ### The Most Important Question

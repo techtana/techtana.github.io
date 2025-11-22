@@ -5,7 +5,7 @@ categories:
 - test
 layout: post
 subtitle: jupyter notebook
-title: test
+title: GithubAction test
 ---
 ## Test notebook
 

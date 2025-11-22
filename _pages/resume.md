@@ -26,7 +26,7 @@ Skilled at bridging engineering and business needs, leading projects end-to-end 
 - **Physical Business**: 
 - **Airship Drone Fleet**: 
 - **AI-assisted financial suite**: 
-- **Lightweight CMS**: Automation pipelines for content publishing
+- **Lightweight CMS**: Personal CMS and automation pipelines for content publishing
 
 ## Technical Highlights
 - **Programming**: Python (data pipelines, classical ML, web framework, concurrency), Javascript (front-end)

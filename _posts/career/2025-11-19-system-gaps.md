@@ -3,8 +3,8 @@ layout: post
 title: Understanding system capability gaps
 subtitle: Align systems, process and tools between factories 
 author: Tech Tana
-categories: leadership
-tags: leadership
+categories: career
+tags: management
 ---
 
 
