@@ -44,7 +44,7 @@ How will I know when you're grumpy?
 > I'll go quiet for a moment and ask what's going on. That's when I try to make sense of things before reacting. I'll try to figure out, but it'll still make me grumpy.
 
 How can I help you when you're grumpy?
-> Give me a summary of what happened or was attempted, then what is needed from me. A little context and show of efforts resets me fast.
+> Give me a summary of what happened and was attempted, then what is needed from me. A little context and show of efforts resets me fast.
 
 ### Feedback & Recognition
 How do you like feedback - Teams chat, email, in person, etc?
