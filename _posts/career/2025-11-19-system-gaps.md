@@ -7,396 +7,69 @@ categories: career
 tags: management
 ---
 
+One of my first 90-day goals is to prepare the team with SOP, tools, and training to be successful. In the beginning, it felt overwhelming to know what the team needs. Having a global quality coach visiting for a few weeks tremendously helps showing the expectations, challenges and opportunities for the team to contribute. Over the past few weeks, the shift in business from R&D to manufacturing and various requests to our teams also expose the weakness and threats that we have to address.  
 
-Here’s a clean, practical structure you can give your team. It forces them to think in terms of capability, gaps, trade-offs, and decision criteria—not just listing tools.
+When tasking our team to list out our gaps, I've learn it's more practical to think in terms of capability, risks, gaps, and trade-offs. As controls engineers, our core purpose is reducing variation. Even though our work often expands into areas like tool availability, cost efficiency, cycle-time improvement, and technology enablement, the anchor for every major decision is the same: does this help us control and reduce process variation? 
 
-Use this as a template + set of leading questions.
+Every controls capability exists to shield the factory from a specific class of risks - whether variation, drift, faults, misprocessing, equipment unavailability, or human-driven inconsistency. For each capability, we should ask: What risk does it reduce, prevent, detect early, or make recoverable? And how does that translate into lower variation, higher stability, or safer operations?
+
+**Common Risk Categories**
+1. **Yield Risk:** Will this cause scrap or parametric loss?  
+    This is about whether wafers meet spec — pure product outcome.  
+    For example, wrong parameters, drift, shrinking process windows, poor matching, unstable recipes.   
+1. **Quality & Excursion Risk:**  Will something go out-of-control and we don't notice in time?  
+    This is about how fast you detect a problem (event detection) and containment, not product yield.  
+    For example, slow detection, inconsistent decisions, manual data gaps, false alarms.  
+2. **Throughput & Cycle-Time Risk:**  Will this slow the factory down?  
+    Even if yield is fine, slow decisions, rework loops, or manual steps create factory bottlenecks, not quality problems.  
+    For example, out-of-control tools causing rework, slow decisions, heavy manual checks, weak automation.  
+3. **Automation & Integration Risk:**  Can the system even run automatically?  
+    Lack of APIs or workflow plumbing hurts scalability, even if throughput and quality are good.  
+    For example, missing APIs, fragmented workflows, high manual intervention, incompatible systems across sites.  
+4. **Data Integrity & Visibility Risk:**  Can we trust the data and understand what happened?  
+    You may detect excursions, but bad data makes troubleshooting useless.  
+    For example, untrusted data, missing context/timestamps, misaligned logs, hard-to-reconstruct events.  
+5. **Operational Consistency Risk:**  Will two engineers at two sites make different decisions for the same issue?  
+    This is about human processes and reproducibility, not the tool or the data.  
+    For example, different sites making different calls, non-repeatable BKMs, inconsistent escalation, training gaps.  
+6.  **Compliance & Audit Risk:**  Can we prove our control logic and decisions are documented and compliant?  
+    This matters for audits, certifications, and external scrutiny beyond daily operations.  
+    For example, missing audit trails, weak documentation, unclear control logic, outdated systems.
+
+---
+
+When evaluating new tools, these are some leading questions to ask:
+1. **Capability:**   
+    What capability does this tool add (e.g. faster decisions, lower scrap, more accurate automation, more uniform workflow)?  
+    What concrete problem does it solve (e.g. excursion response, cycle time variance)?  
+2. **Risk:**  
+    Which risk does it address—yield, quality, throughput, automation, or consistency?  
+3. **Decision impact:**  
+    What breaks today because we lack this capability?  
+    What decisions or actions become possible that we cannot do today?  
+4. **Redundancy check:**  
+    What existing tools or workarounds offer similar capability? How complete, reliable or efficient are they?  
+    Could two existing tools combined replace it?  
+    Does redundancy improve resilience or just increase noise/complexity?  
+5. **Hidden or Secondary Value:**  
+    Does the tool bring extra benefits (e.g. automation hooks, dashboards, integration points) that aren't obvious?  
+6. **Consequence of not adopting:**  
+    What is the most realistic negative outcome if we don't adopt it?
+7. **Adoption Cost:**  
+    What are the integration costs — training, system integration, data alignment, workflow changes, and support?  
+8. **Usage scenario:**  
+    In what specific scenarios would we use this tool? 
+    How often have those occurred in the last 12 months?  
+9.  **New risks:**  
+    What new risks does the tool introduce—training burden, integration complexity, maintenance load, or dependency?   
 
 
 ---
 
-1. Capability-First Comparison
-
-Purpose: Ensure the discussion isn’t about tools themselves but about what problems they solve.
-
-Format
-
-Capability	Factory A Tools	Factory B Tools	Capability Match?	Notes
-
-Example: Inline drift detection	Tool X	Tool A + Tool B	Partial	Factory B needs extra scripting
-
-
-Ask these questions
-
-What capability does this tool deliver? (Define in one sentence.)
-
-Is this capability already delivered by any combination of tools in our fab?
-
-Does the other factory deliver this capability more efficiently or reliably?
-
-Are there hidden capabilities (e.g., automation hooks, dashboards, workflow integration)?
-
-
-
----
-
-2. Gap & Impact Assessment
-
-Purpose: Identify where you’re missing capability that actually matters.
-
-Format
-
-Capability Gap	Impact if Unaddressed	Severity (H/M/L)	Current Workaround	Cost of Workaround
-
-
-
-Ask these questions
-
-What breaks today because we lack this capability?
-
-What decisions, automation, or yield improvements depend on this capability?
-
-How much time/effort do engineers spend on workarounds?
-
-Would the capability reduce risk (e.g., excursion response, cycle time variance)?
-
-
-
----
-
-3. Trade-off & Redundancy Check
-
-Purpose: Prevent bringing in tools that don’t add differentiated value.
-
-Format
-
-Tool	Incremental Capability	Overlap With Existing	Trade-off	Recommendation
-
-
-
-Ask these questions
-
-What does this tool do that no existing tool can do?
-
-Could two existing tools combined replace it?
-
-What is the opportunity cost of deploying, qualifying, training, and maintaining it?
-
-Does redundancy improve resilience or just increase noise/complexity?
-
-
-
----
-
-4. “Should We Bring It In?” Analysis
-
-Purpose: A structured, defendable decision.
-
-Format
-
-Tool	Needed? (Yes/No/Maybe)	Why	Expected Gains	Cost/Risk	Timeline to Deploy	Usage Scenarios
-
-
-
-Ask these questions
-
-If adopted, what measurable improvement would this tool create?
-
-Faster decisions?
-
-Lower scrap/risk?
-
-Better automation?
-
-More uniform workflow across sites?
-
-
-When would engineers actually use it? Daily? Rarely?
-
-What training does it require?
-
-What systems does it need to integrate with?
-
-
-
----
-
-5. Usage Scenarios (“How and When to Use It”)
-
-Purpose: Avoid tools that become shelfware.
-
-Format
-
-Scenario A: (e.g., recipe drift >5%, or SPC alarm, or CD tool re-qualification)
-
-What tool handles this scenario today?
-
-What value does new tool add?
-
-
-Scenario B: …
-
-Scenario C: …
-
-
-Ask these questions
-
-In what situations does the new tool outperform the current system?
-
-Are there scenarios where the new tool is the only practical option?
-
-How often will these scenarios occur in the real fab environment?
-
-
-
----
-
-6. Final Recommendation Packet (What you review)
-
-Ask the engineer to deliver a 1–2 page memo containing:
-
-1. Capability Map
-
-Side-by-side capabilities of Factory A vs Factory B
-
-Highlight gaps and overlaps clearly
-
-
-2. Gaps That Actually Matter
-
-Which missing capabilities affect yield, cycle time, automation, or quality?
-
-Which gaps are noise?
-
-
-3. Tool-by-Tool Decision Summary
-
-Bring in / Don’t bring in / Monitor for future
-
-Clear reasons
-
-
-4. Usage Guidance
-
-When the capability is needed
-
-How it plugs into your existing workflow
-
-Who would own it
-
-
-
----
-
-7. Starter Set of Prompts for the Team
-
-Give them these exact questions to structure their thinking:
-
-1. What capability does this tool provide, and what problem does that solve?
-
-
-2. Which existing tools provide similar capability, and to what degree?
-
-
-3. What is the capability gap if we don’t bring this tool in?
-
-
-4. What is the operational impact of that gap?
-
-
-5. If we bring it in, what capabilities improve and who benefits?
-
-
-6. What are the integration costs (training, data, workflow)?
-
-
-7. Under what specific scenarios will this tool be used?
-
-
-8. How often will those scenarios occur?
-
-
-9. What decision can be made with the new capability that can’t be made today?
-
-
-10. Is the tool uniquely impactful, or is it mostly redundant?
-
-
-
-
----
-
-Add a “Risk Addressed” Column for Every Capability
-
-Every capability exists because it protects the factory from a specific set of risks.
-Have them answer one question per capability:
-
-> “What risk does this capability reduce, prevent, or make recoverable?”
-
-
-
-Format
-
-Capability	Tool(s)	Risk Addressed	Risk Level (H/M/L)	Notes
-
-Recipe drift detection	Tool X	Undetected drift causing scrap or tool offline	High	Current workaround is manual trending
-
-
-
----
-
-Categories of Risk to Consider
-
-Give your team these buckets so they think broadly, not just yield or SPC.
-
-1. Yield Risk
-
-Wrong recipe parameters
-
-Measurement drift
-
-Process window shrinkage
-
-Poor tool matching
-
-Recipe instability after PM
-
-
-2. Quality / Excursion Risk
-
-Delayed detection of out-of-control events
-
-Inconsistent operator decisions
-
-Manual data manipulation or gaps
-
-False alarms masking real issues
-
-
-3. Factory Throughput / Cycle-Time Risk
-
-Tools running out-of-window causing rework
-
-Slow decision cycles
-
-Excessive manual checks
-
-Poorly automated feedback loops
-
-
-4. Automation and Integration Risk
-
-Missing API hooks for automated R2R
-
-Fragmented workflows
-
-Tools that require too much manual intervention
-
-Different sites using incompatible systems
-
-
-5. Data Integrity & Visibility Risk
-
-Untrusted metrology data
-
-Missing timestamps or missing lot context
-
-Tool logs not aligned
-
-Difficulty reconstructing an event chain during excursions
-
-
-6. Operational Consistency Risk
-
-Sites making different decisions for the same scenario
-
-BKM not reproducible across factories
-
-Inconsistent escalation logic
-
-Training gaps or tribal knowledge dependence
-
-
-7. Compliance / Audit Risk
-
-Missing audit trails
-
-Incomplete documentation
-
-Inability to demonstrate control logic or decisions
-
-Outdated or non-compliant systems
-
-
-
----
-
-Add a Crisp Risk Assessment for Each Capability
-
-Tell your team to answer these clearly:
-
-1. What failure mode does this capability protect us from?
-
-Example:
-“Protects from slowly drifting CD measurements that escape SPC.”
-
-2. What happens if this risk is NOT addressed?
-
-Scrap?
-
-Rework?
-
-Lost WIP?
-
-Quarter-over-quarter yield drops?
-
-Engineering time wasted?
-
-Customer quality risk?
-
-
-3. How often does this risk appear?
-
-Rare / occasional / frequent.
-
-4. How severe is the consequence?
-
-High / Medium / Low.
-
-
----
-
-Add Risk to the Final Decision Template
-
-This makes your recommendation packet fully defendable.
-
-Tool	Capability	Risk Addressed	What Happens If We Don’t Bring It In	Incremental Value	Decision
-
-Tool Y	Drift modeling	Undetected param drift	Scrap + delayed matching	High	Bring in
-
-
----
-
-Leading Questions for Your Team
-
-Give them these to think deeply:
-
-1. What specific failure does this capability prevent?
-
-
-2. What is the worst realistic outcome if we don’t have it?
-
-
-3. What current workaround is being used, and what risk does it leave open?
-
-
-4. Does the new tool reduce that risk significantly, or only slightly?
-
-
-5. Is the risk tied to yield, quality, throughput, automation, or consistency?
-
-
-6. How frequently has this risk materialized in the past 12–24 months?
-
-7. If we adopt this capability, what new risks are introduced?
-(Training risk, integration risk, maintenance risk.)
+When evaluating capabilities between two similar teams from different factories, use the table below.
+
+| Capability / Tool                                 | Fab A                                           | Fab B                                      | Gap?    | Impact (H/M/L)                         | Current Workaround                    | Unique Value                                      | Decision (Y/N/M)    | Expected Gain                                        | Cost/Risk                                    | Integration                                   | Usage Scenario                                                  |
+| ------------------------------------------------- | ----------------------------------------------- | ------------------------------------------ | ------- | -------------------------------------- | ------------------------------------- | ------------------------------------------------- | ------------------- | ---------------------------------------------------- | -------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- |
+| **Wafer-Level CD Prediction (Virtual Metrology)** | None                                            | VM engine with ML-based CD prediction      | **Yes** | **Medium** (cycle-time, sampling cost) | Extra metrology sampling              | Reduces sampling and provides early warnings      | **M** (pilot first) | Better run-to-run correction, reduced metrology load | High (model training, validation, data prep) | Needs data lake + APC link                    | High-throughput steps with long metrology queues                |
+| **Control Config Copy Between Derivative Products** | Automated config-clone with parameter remapping + guard checks | Manual rebuild of control configs for each product | **Yes** | **Medium** (slow deployment, config errors) | Copy-paste + engineer review | Cuts config setup time, reduces human error, ensures consistent tuning across products | **Y**            | Faster rollout of R2R, fewer mistakes, consistent FF/PID/EWMA tuning | Low (scripts + training) | Needs link to recipe database + APC config templates | When spinning up a new derivative product with similar process window |
+| **Advanced SPC Dashboard (3rd-party tool)** | Built-in APC/SPC dashboard with auto-alerts | Proposes new 3rd-party SPC analytics tool | **No** (capability already covered) | **Low**        | Existing SPC charts + APC auto-alerts | Slightly nicer UI, more chart types | **N**            | Minimal (no new decisions enabled) | Medium (license + training + dual systems confusion) | Would need MES/APC connectors | Rare; current system already meets control and quality needs 
