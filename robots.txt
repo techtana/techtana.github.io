@@ -1,5 +1,6 @@
 User-agent: Google-Extended
-Disallow: /
+Allow: /
+Sitemap: https://techtana.github.io/sitemap.xml
 
 User-agent: GPTBot
 Disallow: /
@@ -42,6 +43,3 @@ Disallow: /
 
 User-agent: TheOldReader
 Disallow: /
-
-User-agent: *
-Allow: /
