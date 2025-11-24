@@ -1,45 +1,25 @@
-User-agent: Google-Extended
+# Allow Google Search
+User-agent: Googlebot
 Allow: /
+
+# Allow Google Images (optional but recommended)
+User-agent: Googlebot-Image
+Allow: /
+
+# Allow Google Mobile
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Allow Google News (if articles)
+User-agent: Googlebot-News
+Allow: /
+
+# Allow Google for site indexing helpers
+User-agent: Googlebot-Video
+Allow: /
+
+# Everything else is blocked
+User-agent: *
+Disallow: /
+
 Sitemap: https://techtana.github.io/sitemap.xml
-
-User-agent: GPTBot
-Disallow: /
-
-User-agent: Omgilibot
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
-
-User-agent: anthropic-ai
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: FacebookBot
-Disallow: /
-
-User-agent: PerplexityBot
-Disallow: /
-
-User-agent: cohere-ai
-Disallow: /
-
-User-agent: Applebot
-Disallow: /
-
-User-agent: FeedlyBot
-Disallow: /
-
-User-agent: Flipboard
-Disallow: /
-
-User-agent: NewsBlur
-Disallow: /
-
-User-agent: Inoreader
-Disallow: /
-
-User-agent: TheOldReader
-Disallow: /
