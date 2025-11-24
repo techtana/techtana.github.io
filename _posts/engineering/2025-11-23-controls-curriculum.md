@@ -28,7 +28,7 @@ At the higher levels, it becomes impossible to give a generic learning plan. So,
 > [!NOTE]
 > If you have a STEM degree, many of these topics should be familiar. 
 > I asked ChatGPT to create a quiz to test the readiness of your knowledge, so you can "test-out": 
-> [Quiz and answer keys.](control-engineering-testout.html)
+> [Quiz and answer keys.](controls-quiz-testout.html)
 #### Algebra & Data Operations
 * Mean, variance, moving variance
 * Weighted averages (EWMA)
