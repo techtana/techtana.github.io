@@ -32,16 +32,14 @@ Before going into risk categories, it's important to note that yield and quality
    This is about human processes, consistency, reproducibility, and productivity.
    For example, hard-to-reconstruct events, different sites making different calls, non-repeatable BKMs, inconsistent escalation, training gaps.
 5. **System Operation Risk:**  Can the system run automatically or integrated into larger ecosystems?
-   Lack of APIs or workflow plumbing hurts scalability, even if throughput and quality are good.
-   For example, data or log discrepancy, missing context/timestamps, fragmented workflows, high manual intervention, incompatible systems across sites.
+   Data or log discrepancy can mislead decisions. Lack of APIs or workflow plumbing hurts scalability, even if throughput and quality are good.
+   For example, missing context/timestamps, fragmented workflows, high manual intervention, incompatible systems across sites.
 6. **Compliance and Audit Risk:**  Can we prove our control logic and decisions are documented and compliant?
    This matters for audits, certifications, and external scrutiny beyond daily operations.
    For example, missing audit trails, weak documentation, unclear control logic, outdated systems.
 
 
-
 When evaluating new tools, we can as the following questions: 
-
 1. **Capability:**
    What capability does this tool add (e.g. faster decisions, lower scrap, more accurate automation, more uniform workflow)?
    What concrete problem does it solve (e.g. excursion response, cycle time variance)?
