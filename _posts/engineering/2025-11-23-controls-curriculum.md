@@ -28,7 +28,7 @@ At the higher levels, it becomes impossible to give a generic learning plan. So,
 > [!NOTE]
 > If you have a STEM degree, many of these topics should be familiar. 
 > I asked ChatGPT to create a quiz to test the readiness of your knowledge, so you can "test-out": 
-> [Quiz and answer keys.](2025-11-23-control-engineering-testout.md)
+> [Quiz and answer keys.](control-engineering-testout.html)
 #### Algebra & Data Operations
 * Mean, variance, moving variance
 * Weighted averages (EWMA)
@@ -70,9 +70,9 @@ At the higher levels, it becomes impossible to give a generic learning plan. So,
   * SPC: Comparing Long-term sigma vs short-term sigma to indicate creeping shifts
   * Time-Series: Consistent $Δy[k]$ in the same direction
   * Time-Series: Observer residual slowly growing (in state-space/ARX systems)
-  * [Bias estimate creeping in EWMA/R2R controllers](2025-11-23-controls-uncontrolled-bias.md)
-* [Controller tuning and optimization](2025-11-23-controls-parameter-tuning.md)
-  * [How to tune process model?](2025-11-23-controls-process-model-inaccuracy.md)
+  * [Bias estimate creeping in EWMA/R2R controllers](controls-uncontrolled-bias.html)
+* [Controller tuning and optimization](controls-parameter-tuning.html)
+  * [How to tune process model?](controls-process-model-inaccuracy.html)
 
 ---
 
