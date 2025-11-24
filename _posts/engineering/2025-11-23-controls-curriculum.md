@@ -38,6 +38,7 @@ At the higher levels, it becomes impossible to give a generic learning plan. So,
 * Difference equations
 * Online variance estimators
 * Variance reduction factors
+* [**YouTube:** Time Series Analysis by ritvikmath](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3)
 #### Probability
 * Normal distribution (for Cp/Cpk)
 * Short vs long-term sigma
