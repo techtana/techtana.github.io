@@ -4,7 +4,7 @@ categories: career
 enhance_policy: add_counterpoints_casual
 layout: post
 subtitle: null
-tags: career
+tags: advice
 title: Start with an end
 ---
 
