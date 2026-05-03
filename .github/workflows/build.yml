@@ -15,45 +15,45 @@ permissions:
 
 
 jobs:
-  enhance:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-      - name: Enhance blog posts
-        uses: techtana/ghaction_ai_enhanced_blogpost@v1.0.0
-        with:
-          openai_api_key: ${{ secrets.OPENAI_API_KEY }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit enhanced files
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m "Enhance posts" || echo "No changes to commit"
-          git push
+  # enhance:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #       with:
+  #         persist-credentials: true
+  #     - name: Enhance blog posts
+  #       uses: techtana/ghaction_ai_enhanced_blogpost@v1.0.0
+  #       with:
+  #         openai_api_key: ${{ secrets.OPENAI_API_KEY }}
+  #         github_token: ${{ secrets.GITHUB_TOKEN }}
+  #     - name: Commit enhanced files
+  #       run: |
+  #         git config --global user.name 'github-actions[bot]'
+  #         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+  #         git add .
+  #         git commit -m "Enhance posts" || echo "No changes to commit"
+  #         git push
 
-  convert_notebooks:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: true
+  # convert_notebooks:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #       with:
+  #         persist-credentials: true
 
-      - name: Convert Notebooks
-        uses: techtana/ghaction_blogpost_from_ipynb@v1.0.0
+  #     - name: Convert Notebooks
+  #       uses: techtana/ghaction_blogpost_from_ipynb@v1.0.0
 
-      - name: Commit enhanced files
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m "Convert notebooks into posts" || echo "No changes to commit"
-          git push
+  #     - name: Commit enhanced files
+  #       run: |
+  #         git config --global user.name 'github-actions[bot]'
+  #         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+  #         git add .
+  #         git commit -m "Convert notebooks into posts" || echo "No changes to commit"
+  #         git push
 
   build:
-    needs: [ enhance, convert_notebooks ]
+    # needs: [ enhance, convert_notebooks ]
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
