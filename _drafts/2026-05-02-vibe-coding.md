@@ -1,11 +1,14 @@
 ---
 layout: post
-categories: journal
+categories:
+  - journal
 title: Started my Vibe Coding Journey
 subtitle: >-
   Getting amazed by how much these tools enabled me and makes me very exciting
   for what is to come!
 tags: []
+author: Tech Tana
+date: '2026-05-02'
 ---
 Here are a few ways to rewrite your content, depending on whether you want a casual (blog/social media) or a more professional (report/article) tone.
 
